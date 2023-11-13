@@ -6,4 +6,4 @@
 <a href="WebDesg\Color\Color.html">Color Table </a><br>
 <a href="WebDesg\Menu\Menu.html">Menu</a><br>
 <a href="WebDesg\Schedule\Schedule.html">Schedule</a><br>
-<a href="WebDesg\Team Page\TeamPage.html">Schedule</a>
+<a href="WebDesg\Team Page\TeamPage.html">Team Page</a>

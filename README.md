@@ -7,4 +7,7 @@
 <a href="WebDesg\Menu\Menu.html">Menu</a><br>
 <a href="WebDesg\Schedule\Schedule.html">Schedule</a><br>
 <a href="WebDesg\Team Page\TeamPage.html">Team Page</a><br>
-<a href="WebDesg\Puzzle\Puzzle.html">Puzzle</a>
+<a href="WebDesg\Puzzle\Puzzle.html">Puzzle</a><br>
+<a href="WebDesg\Clubs\Golf.html">Team Page</a><br>
+<a href="WebDesg\Clubs\Basketball.html">Team Page</a><br>
+<a href="WebDesg\Clubs\Baseball.html">Team Page</a><br>

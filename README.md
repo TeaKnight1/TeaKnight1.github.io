@@ -8,6 +8,6 @@
 <a href="WebDesg\Schedule\Schedule.html">Schedule</a><br>
 <a href="WebDesg\Team Page\TeamPage.html">Team Page</a><br>
 <a href="WebDesg\Puzzle\Puzzle.html">Puzzle</a><br>
-<a href="WebDesg\Clubs\Golf.html">Team Page</a><br>
-<a href="WebDesg\Clubs\Basketball.html">Team Page</a><br>
-<a href="WebDesg\Clubs\Baseball.html">Team Page</a><br>
+<a href="WebDesg\Clubs\Golf.html">Golf Score Board</a><br>
+<a href="WebDesg\Clubs\Basketball.html">Basketball Score Board</a><br>
+<a href="WebDesg\Clubs\Baseball.html">Baseball Score Board</a><br>

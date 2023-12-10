@@ -11,4 +11,4 @@
 <a href="WebDesg\Clubs\Golf.html">Golf Score Board</a><br>
 <a href="WebDesg\Clubs\Basketball.html">Basketball Score Board</a><br>
 <a href="WebDesg\Clubs\Baseball.html">Baseball Score Board</a><br>
-<a href="WebDesg\Video\Video.html.html">Video Guide</a><br>
+<a href="WebDesg\Video\Video.html">Video Guide</a><br>
